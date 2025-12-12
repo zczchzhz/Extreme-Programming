@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a19dc4ee-7009-4f04-b84c-15707a60673b" name="更改" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/contacts/exception/InvalidQQException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/contacts/utils/ExcelUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contacts/config/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contacts/config/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contacts/controller/ContactController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contacts/controller/ContactController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contacts/entity/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contacts/entity/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contacts/exception/ValidationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contacts/exception/ValidationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contacts/repository/ContactRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contacts/repository/ContactRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contacts/service/ContactService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contacts/service/ContactService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/contacts/service/impl/ContactServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/contacts/service/impl/ContactServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zczchzhz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:zczchzhz/832302220_contacts_backend.git&quot;,
+    &quot;accountId&quot;: &quot;ef81c32f-0bd0-4daf-82bb-512dda3cffc2&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="358ydMA2Z4obMU05zicIjEhOLQj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.ExtremeProgramming_contacts_backend [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/IdeaProjects/Copy/ExtremeProgramming_contacts_backend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\Extreme Programming\832302220_contacts_backend\src\main\java\com\contacts\utils" />
+      <recent name="D:\IdeaProjects\832302220_concacts\832302220_contacts_backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\832302220_concacts\832302220_contacts_backend\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ContactsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ExtremeProgramming_contacts_backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.contacts.ContactsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a19dc4ee-7009-4f04-b84c-15707a60673b" name="更改" comment="" />
+      <created>1762506079699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762506079699</updated>
+      <workItem from="1762506080965" duration="2915000" />
+      <workItem from="1762509025641" duration="467000" />
+      <workItem from="1762509849627" duration="1660000" />
+      <workItem from="1762514246003" duration="8000" />
+      <workItem from="1762517746156" duration="2000" />
+      <workItem from="1762519178251" duration="2351000" />
+      <workItem from="1762521926575" duration="450000" />
+      <workItem from="1762528072665" duration="2382000" />
+      <workItem from="1762534949959" duration="474000" />
+      <workItem from="1762535544570" duration="115000" />
+      <workItem from="1762535707526" duration="627000" />
+      <workItem from="1762582594589" duration="290000" />
+      <workItem from="1762582908246" duration="519000" />
+      <workItem from="1762583443029" duration="958000" />
+      <workItem from="1765335134225" duration="2305000" />
+      <workItem from="1765338564857" duration="528000" />
+      <workItem from="1765341164741" duration="116000" />
+      <workItem from="1765341313510" duration="82000" />
+      <workItem from="1765341416122" duration="536000" />
+      <workItem from="1765341992863" duration="3650000" />
+      <workItem from="1765346807354" duration="2093000" />
+      <workItem from="1765350275573" duration="706000" />
+      <workItem from="1765351007240" duration="701000" />
+      <workItem from="1765351742795" duration="1036000" />
+      <workItem from="1765354589166" duration="452000" />
+      <workItem from="1765355070349" duration="649000" />
+      <workItem from="1765357385084" duration="23000" />
+      <workItem from="1765357769614" duration="1619000" />
+      <workItem from="1765359475048" duration="610000" />
+      <workItem from="1765480661255" duration="303000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1762507433129</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762507433129</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1762583245794</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762583245794</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>

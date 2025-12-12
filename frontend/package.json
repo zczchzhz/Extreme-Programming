@@ -1,0 +1,21 @@
+{
+  "name": "832302220_contacts_frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5",
+    "element-plus": "^2.4.1",
+    "@element-plus/icons-vue": "^2.1.0",
+    "axios": "^1.5.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "vite": "^4.5.3"
+  }
+}

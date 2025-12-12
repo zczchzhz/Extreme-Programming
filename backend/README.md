@@ -5,10 +5,10 @@
 
 **MUID**: 23125390/23126787
 
-**API 地址**: [https://832302220-contacts-backend.railway.app](https://832302220-contacts-backend.railway.app)
+**云部署地址**: [http://112.124.50.95:8088/](http://112.124.50.95:8088/)
 
 **API 文档**: 查看下面的 API 接口说明  
-**源码仓库**: [https://github.com/zczchzhz/832302220_contacts_backend](https://github.com/your-username/832302220_contacts_backend)
+**后端源码仓库**: [https://github.com/zczchzhz/Extreme-Programming/tree/main/backend](https://github.com/zczchzhz/Extreme-Programming/tree/main/backend)
 
 ## 📋 项目简介
 
@@ -23,7 +23,7 @@
 
 ### 数据库
 - **H2 Database** - 内存数据库（开发环境）
-- **PostgreSQL** - 关系型数据库（生产环境）
+- **mysql** - 关系型数据库（生产环境）
 
 ### 开发工具
 - **Maven** - 项目构建和依赖管理
@@ -126,7 +126,7 @@ Maven 3.6 或更高版本
 ### 开发环境运行
 ```bash
 # 1.克隆项目
-git clone https://github.com/zczchzhz/832302220_contacts_backend.git
+git clone https://github.com/zczchzhz/Extreme-Programming/tree/main/backend.git
 ```
 ```bash
 # 进入项目目录
@@ -142,11 +142,11 @@ mvn spring-boot:run
 ```
 
 ## 生产环境部署
-✅项目已部署到 **Railway** 平台，支持：
+✅项目已部署到 **阿里云** 平台，支持：
 
 ✅自动 CI/CD 流水线
 
-✅**PostgreSQL** 数据库自动配置
+✅**mysql** 数据库自动配置
 
 ✅环境变量自动管理
 
@@ -185,4 +185,5 @@ MUID: **23125390/23126787**
 邮箱: **2074056583@qq.com/477731294@qq.com**
 
 ## 📄 许可证
+
 本项目仅用于教学目的，遵循**福州大学梅努斯国际工程学院EE308FZ_Extreme Programming**作业要求。

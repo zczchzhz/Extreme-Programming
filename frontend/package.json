@@ -2,7 +2,7 @@
   "name": "832302220_contacts_frontend",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
+  "scripts": {    
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -18,4 +18,5 @@
     "@vitejs/plugin-vue": "^4.5.2",
     "vite": "^4.5.3"
   }
+
 }

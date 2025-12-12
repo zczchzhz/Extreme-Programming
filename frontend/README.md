@@ -6,7 +6,7 @@
 **MUID**: 23125390/23126787
 
 **在线访问**: [http://112.124.50.95:8088/](http://112.124.50.95:8088/)  
-**前端源码仓库**: [https://github.com/zczchzhz/Extreme-Programming/edit/main/frontend](https://github.com/zczchzhz/Extreme-Programming/edit/main/frontend)
+**前端源码仓库**: [https://github.com/zczchzhz/Extreme-Programming/tree/main/frontend](https://github.com/zczchzhz/Extreme-Programming/tree/main/frontend)
 
 ## 📋 项目简介
 
@@ -125,3 +125,4 @@ MUID: **23125390/23126787**
 ## 📄 许可证
 
 本项目仅用于教学目的，遵循**福州大学梅努斯国际工程学院EE308FZ_Extreme Programming**作业要求。
+

@@ -79,7 +79,7 @@ ExtremeProgramming_contacts_frontend/
 ### 开发环境运行
 ```bash
 # 1.克隆项目
-git clone https://github.com/zczchzhz/Extreme-Programming/frontend.git
+git clone https://github.com/zczchzhz/Extreme-Programming/tree/main/frontend.git
 ```
 ```bash
 # 2.进入项目目录
@@ -125,4 +125,5 @@ MUID: **23125390/23126787**
 ## 📄 许可证
 
 本项目仅用于教学目的，遵循**福州大学梅努斯国际工程学院EE308FZ_Extreme Programming**作业要求。
+
 
